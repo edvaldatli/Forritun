@@ -1,0 +1,6 @@
+c:\users\klassy\documents\visual studio 2015\Projects\greidslukort\greidslukort\bin\Debug\greidslukort.exe.config
+c:\users\klassy\documents\visual studio 2015\Projects\greidslukort\greidslukort\bin\Debug\greidslukort.exe
+c:\users\klassy\documents\visual studio 2015\Projects\greidslukort\greidslukort\bin\Debug\greidslukort.pdb
+c:\users\klassy\documents\visual studio 2015\Projects\greidslukort\greidslukort\obj\Debug\greidslukort.csprojResolveAssemblyReference.cache
+c:\users\klassy\documents\visual studio 2015\Projects\greidslukort\greidslukort\obj\Debug\greidslukort.exe
+c:\users\klassy\documents\visual studio 2015\Projects\greidslukort\greidslukort\obj\Debug\greidslukort.pdb
